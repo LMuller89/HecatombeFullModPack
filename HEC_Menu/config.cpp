@@ -1,16 +1,24 @@
 class CfgPatches
 {
-	class ModdedMainMenu_v3
+	class Hec_Menu
 	{
 		units[]={};
 		weapons[]={};
 		requiredVersion=0.1; 		
-			requiredAddons[]={"DZ_Data", "DZ_Gear_Consumables", "DZ_Vehicles_Wheeled", "DZ_Structures_Residential", "DZ_Sounds_Effects", "DZ_Sounds_Weapons"};
+			requiredAddons[]=
+			{
+				"DZ_Data",
+				"DZ_Gear_Consumables",
+				"DZ_Vehicles_Wheeled",
+				"DZ_Structures_Residential",
+				"DZ_Sounds_Effects",
+				"DZ_Sounds_Weapons"
+			};
 	};
 };
 class CfgMods
 {
-	class ModdedMainMenu_v3
+	class Hec_Menu
 	{
 	    dir = "HEC_Menu";
 	    picture = "";
@@ -30,7 +38,11 @@ class CfgMods
 	    extra = 0;
 		
 	    type = "mod";
-		dependencies[]={"Mission","Game"}; 
+		dependencies[]=
+		{
+			"Game",
+			"Mission"
+		}; 
 
 	    class defs
 	    {	
