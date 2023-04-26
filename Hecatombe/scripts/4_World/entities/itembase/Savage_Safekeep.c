@@ -1,4 +1,4 @@
-class Savage_Safekeep extends ItemBase
+class HEC_Box extends ItemBase
 {
 	override void SetActions()
 	{
