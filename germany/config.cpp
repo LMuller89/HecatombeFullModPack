@@ -77,9 +77,9 @@ class cfgVehicles
 		displayName="MMG JPC VEST German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\jpcvest_ft.paa",
-			"mmg_retexture\data\textures\germany\jpcvest_ft.paa",
-			"mmg_retexture\data\textures\germany\jpcvest_ft.paa"
+			"germany\data\jpcvest_ft.paa",
+			"germany\data\jpcvest_ft.paa",
+			"germany\data\jpcvest_ft.paa"
 		};
 	};
 	class tt_vest_Base;
@@ -89,9 +89,9 @@ class cfgVehicles
 		displayName="MMG TT Plate German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\tt_vest_ft.paa",
-			"mmg_retexture\data\textures\germany\tt_vest_ft.paa",
-			"mmg_retexture\data\textures\germany\tt_vest_ft.paa"
+			"germany\data\tt_vest_ft.paa",
+			"germany\data\tt_vest_ft.paa",
+			"germany\data\tt_vest_ft.paa"
 		};
 	};
 	class mmg_chestrig_Base;
@@ -101,9 +101,9 @@ class cfgVehicles
 		displayName="MMG Chestrig German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\chestrig_ft.paa",
-			"mmg_retexture\data\textures\germany\chestrig_ft.paa",
-			"mmg_retexture\data\textures\germany\chestrig_ft.paa"
+			"germany\data\chestrig_ft.paa",
+			"germany\data\chestrig_ft.paa",
+			"germany\data\chestrig_ft.paa"
 		};
 	};
 	class heavyvest_base;
@@ -113,9 +113,9 @@ class cfgVehicles
 		displayName="MMG MK-3 Armor German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\heavyvest_ft.paa",
-			"mmg_retexture\data\textures\germany\heavyvest_ft.paa",
-			"mmg_retexture\data\textures\germany\heavyvest_ft.paa"
+			"germany\data\heavyvest_ft.paa",
+			"germany\data\heavyvest_ft.paa",
+			"germany\data\heavyvest_ft.paa"
 		};
 	};
 	class mk5_vest_base;
@@ -125,9 +125,9 @@ class cfgVehicles
 		displayName="MMG MK-V Armor German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\mk5_vest_ft.paa",
-			"mmg_retexture\data\textures\germany\mk5_vest_ft.paa",
-			"mmg_retexture\data\textures\germany\mk5_vest_ft.paa"
+			"germany\data\mk5_vest_ft.paa",
+			"germany\data\mk5_vest_ft.paa",
+			"germany\data\mk5_vest_ft.paa"
 		};
 	};
 	class combatshirt_base;
@@ -137,9 +137,9 @@ class cfgVehicles
 		displayName="MMG CombatShirt German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\combatshirt_ft_g.paa",
-			"mmg_retexture\data\textures\germany\combatshirt_ft.paa",
-			"mmg_retexture\data\textures\germany\combatshirt_ft.paa"
+			"germany\data\combatshirt_ft_g.paa",
+			"germany\data\combatshirt_ft.paa",
+			"germany\data\combatshirt_ft.paa"
 		};
 	};
 	class combatpants_base;
@@ -149,9 +149,9 @@ class cfgVehicles
 		displayName="MMG CombatPants German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\combatpants_ft_g.paa",
-			"mmg_retexture\data\textures\germany\combatpants_ft.paa",
-			"mmg_retexture\data\textures\germany\combatpants_ft.paa"
+			"germany\data\combatpants_ft_g.paa",
+			"germany\data\combatpants_ft.paa",
+			"germany\data\combatpants_ft.paa"
 		};
 	};
 	class operatorshirt_base;
@@ -161,9 +161,9 @@ class cfgVehicles
 		displayName="MMG Operatorshirt German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\operatorshirt_ft.paa",
-			"mmg_retexture\data\textures\germany\operatorshirt_ft.paa",
-			"mmg_retexture\data\textures\germany\operatorshirt_ft.paa"
+			"germany\data\operatorshirt_ft.paa",
+			"germany\data\operatorshirt_ft.paa",
+			"germany\data\operatorshirt_ft.paa"
 		};
 	};
 	class mmg_tactical_shirt_base;
@@ -173,9 +173,9 @@ class cfgVehicles
 		displayName="MMG Tactical Shirt German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\tactical_shirt_ft.paa",
-			"mmg_retexture\data\textures\germany\tactical_shirt_ft.paa",
-			"mmg_retexture\data\textures\germany\tactical_shirt_ft.paa"
+			"germany\data\tactical_shirt_ft.paa",
+			"germany\data\tactical_shirt_ft.paa",
+			"germany\data\tactical_shirt_ft.paa"
 		};
 	};
 	class TacticalGloves_ColorBase;
@@ -185,9 +185,9 @@ class cfgVehicles
 		displayName="MMG Gloves German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\tacticalgloves_ft.paa",
-			"mmg_retexture\data\textures\germany\tacticalgloves_ft.paa",
-			"mmg_retexture\data\textures\germany\tacticalgloves_ft.paa"
+			"germany\data\tacticalgloves_ft.paa",
+			"germany\data\tacticalgloves_ft.paa",
+			"germany\data\tacticalgloves_ft.paa"
 		};
 	};
 	class JungleBoots_ColorBase;
@@ -197,9 +197,9 @@ class cfgVehicles
 		displayName="MMG Tactical Boots German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\boots_ft.paa",
-			"mmg_retexture\data\textures\germany\boots_ft.paa",
-			"mmg_retexture\data\textures\germany\boots_ft.paa"
+			"germany\data\boots_ft.paa",
+			"germany\data\boots_ft.paa",
+			"germany\data\boots_ft.paa"
 		};
 	};
 	class facemask_base;
@@ -209,11 +209,11 @@ class cfgVehicles
 		displayName="MMG Facemask German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\facemask_ft.paa",
-			"mmg_retexture\data\textures\germany\facemask_ft.paa",
-			"mmg_retexture\data\textures\germany\facemask_ft.paa",
-			"mmg_retexture\data\textures\germany\facemask_ft.paa",
-			"mmg_retexture\data\textures\germany\facemask_ft.paa"
+			"germany\data\facemask_ft.paa",
+			"germany\data\facemask_ft.paa",
+			"germany\data\facemask_ft.paa",
+			"germany\data\facemask_ft.paa",
+			"germany\data\facemask_ft.paa"
 		};
 	};
 	class balaclava_base;
@@ -224,9 +224,9 @@ class cfgVehicles
 		visibilityModifier=0.85000002;
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\balaclava_ft.paa",
-			"mmg_retexture\data\textures\germany\balaclava_ft.paa",
-			"mmg_retexture\data\textures\germany\balaclava_ft.paa"
+			"germany\data\balaclava_ft.paa",
+			"germany\data\balaclava_ft.paa",
+			"germany\data\balaclava_ft.paa"
 		};
 	};
 	class mmg_boonie_base;
@@ -237,9 +237,9 @@ class cfgVehicles
 		visibilityModifier=0.85000002;
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\boonie_ft.paa",
-			"mmg_retexture\data\textures\germany\boonie_ft.paa",
-			"mmg_retexture\data\textures\germany\boonie_ft.paa"
+			"germany\data\boonie_ft.paa",
+			"germany\data\boonie_ft.paa",
+			"germany\data\boonie_ft.paa"
 		};
 	};
 	class striker_helmet_base;
@@ -250,9 +250,9 @@ class cfgVehicles
 		hiddenSelectionsTextures[]=
 		{
 			"mmg_retexture\data\textures\sweden\striker_visor_base_co.paa",
-			"mmg_retexture\data\textures\germany\striker_helmet_ft.paa",
-			"mmg_retexture\data\textures\germany\striker_helmet_ft.paa",
-			"mmg_retexture\data\textures\germany\striker_helmet_ft.paa"
+			"germany\data\striker_helmet_ft.paa",
+			"germany\data\striker_helmet_ft.paa",
+			"germany\data\striker_helmet_ft.paa"
 		};
 	};
 	class tactical_helmet_base;
@@ -262,9 +262,9 @@ class cfgVehicles
 		displayName="MMG Tactical Helmet German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\tactical_helmet_ft.paa",
-			"mmg_retexture\data\textures\germany\tactical_helmet_ft.paa",
-			"mmg_retexture\data\textures\germany\tactical_helmet_ft.paa"
+			"germany\data\tactical_helmet_ft.paa",
+			"germany\data\tactical_helmet_ft.paa",
+			"germany\data\tactical_helmet_ft.paa"
 		};
 	};
 	class falconbelt_base;
@@ -274,10 +274,10 @@ class cfgVehicles
 		displayName="MMG Falcon Belt German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\falconbelt_ft.paa",
-			"mmg_retexture\data\textures\germany\falconbelt_ft.paa",
-			"mmg_retexture\data\textures\germany\falconbelt_ft.paa",
-			"mmg_retexture\data\textures\germany\drop_leg_ft.paa"
+			"germany\data\falconbelt_ft.paa",
+			"germany\data\falconbelt_ft.paa",
+			"germany\data\falconbelt_ft.paa",
+			"germany\data\drop_leg_ft.paa"
 		};
 	};
 	class mag_pouch_Base;
@@ -287,7 +287,7 @@ class cfgVehicles
 		displayName="MMG MagPouch German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\JPCmag_pouch_ft.paa"
+			"germany\data\JPCmag_pouch_ft.paa"
 		};
 	};
 	class triple_magpouch_base;
@@ -297,9 +297,9 @@ class cfgVehicles
 		displayName="MMG Triple MagPouch German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\single_magpouch_ft.paa",
-			"mmg_retexture\data\textures\germany\single_magpouch_ft.paa",
-			"mmg_retexture\data\textures\germany\single_magpouch_ft.paa"
+			"germany\data\single_magpouch_ft.paa",
+			"germany\data\single_magpouch_ft.paa",
+			"germany\data\single_magpouch_ft.paa"
 		};
 	};
 	class double_magpouch_base;
@@ -309,8 +309,8 @@ class cfgVehicles
 		displayName="MMG Double MagPouch German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\single_magpouch_ft.paa",
-			"mmg_retexture\data\textures\germany\single_magpouch_ft.paa"
+			"germany\data\single_magpouch_ft.paa",
+			"germany\data\single_magpouch_ft.paa"
 		};
 	};
 	class JPCMed_Pouch_base;
@@ -320,7 +320,7 @@ class cfgVehicles
 		displayName="MMG MedPouch German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\jpcmed_pouch_ft.paa"
+			"germany\data\jpcmed_pouch_ft.paa"
 		};
 	};
 	class JPCammo_pouch_base;
@@ -330,7 +330,7 @@ class cfgVehicles
 		displayName="EOD Pouch German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\ammo_pouch_ft.paa"
+			"germany\data\ammo_pouch_ft.paa"
 		};
 	};
 	class tactical_pouch_base;
@@ -340,7 +340,7 @@ class cfgVehicles
 		displayName="MMG 5.11 Tactical Pouch German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\tactical_pouch_ft.paa"
+			"germany\data\tactical_pouch_ft.paa"
 		};
 	};
 	class mk5_utility_pouch_base;
@@ -350,7 +350,7 @@ class cfgVehicles
 		displayName="MMG MK5 Utility Pouch German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\mk5_gear_ft.paa"
+			"germany\data\mk5_gear_ft.paa"
 		};
 	};
 	class mk5_grenade_pouch_base;
@@ -360,7 +360,7 @@ class cfgVehicles
 		displayName="MMG MK5 Grenade Pouch German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\mk5_gear_ft.paa"
+			"germany\data\mk5_gear_ft.paa"
 		};
 	};
 	class carrier_backpack_base;
@@ -370,9 +370,9 @@ class cfgVehicles
 		displayName="MMG Carrier Pack German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\carrier_backpack_ft.paa",
-			"mmg_retexture\data\textures\germany\carrier_backpack_ft.paa",
-			"mmg_retexture\data\textures\germany\carrier_backpack_ft.paa"
+			"germany\data\carrier_backpack_ft.paa",
+			"germany\data\carrier_backpack_ft.paa",
+			"germany\data\carrier_backpack_ft.paa"
 		};
 	};
 	class supplybag_base;
@@ -382,10 +382,10 @@ class cfgVehicles
 		displayName="MMG 5.11 SupplyBag German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\supplybag_ft.paa",
-			"mmg_retexture\data\textures\germany\supplybag_ft.paa",
-			"mmg_retexture\data\textures\germany\supplybag_ft.paa",
-			"mmg_retexture\data\textures\germany\carrier_backpack_ft.paa"
+			"germany\data\supplybag_ft.paa",
+			"germany\data\supplybag_ft.paa",
+			"germany\data\supplybag_ft.paa",
+			"germany\data\carrier_backpack_ft.paa"
 		};
 	};
 	class assault_pack_base;
@@ -395,9 +395,9 @@ class cfgVehicles
 		displayName="MMG Assault Pack German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\assault_pack_ft.paa",
-			"mmg_retexture\data\textures\germany\assault_pack_ft.paa",
-			"mmg_retexture\data\textures\germany\assault_pack_ft.paa"
+			"germany\data\assault_pack_ft.paa",
+			"germany\data\assault_pack_ft.paa",
+			"germany\data\assault_pack_ft.paa"
 		};
 	};
 	class camelback_base;
@@ -407,9 +407,9 @@ class cfgVehicles
 		displayName="MMG Camelback German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\camelback_ft.paa",
-			"mmg_retexture\data\textures\germany\camelback_ft.paa",
-			"mmg_retexture\data\textures\germany\camelback_ft.paa"
+			"germany\data\camelback_ft.paa",
+			"germany\data\camelback_ft.paa",
+			"germany\data\camelback_ft.paa"
 		};
 	};
 	class JPCsheath_Base;
@@ -419,7 +419,7 @@ class cfgVehicles
 		displayName="MMG Sheath German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\sheath_ft.paa"
+			"germany\data\sheath_ft.paa"
 		};
 	};
 	class PlateCarrierHolster_ColorBase;
@@ -429,7 +429,7 @@ class cfgVehicles
 		displayName="MMG Holster German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\holster_ft.paa"
+			"germany\data\holster_ft.paa"
 		};
 	};
 	class JPC_Bottle_Base;
@@ -439,7 +439,7 @@ class cfgVehicles
 		displayName="MMG Bottle German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\germany\jpc_bottle_ft.paa"
+			"germany\data\jpc_bottle_ft.paa"
 		};
 	};
 };
