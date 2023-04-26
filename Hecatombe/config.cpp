@@ -21,6 +21,17 @@ class CfgPatches
 class cfgVehicles
 {
 	class Flag_Base;
+	class HEC_Flag_Hecatombe: Flag_Base //Hecatombe
+	{
+		scope=2;
+		displayName="Bandeira do Servidor Hecatombe";
+		descriptionShort="Bandeira do Servidor Hecatombe";
+		hiddenSelectionsTextures[]=
+		{
+			"\Hecatombe\data\Flags\Flag_Hecatombe_co.paa"
+		};
+	};
+	class Flag_Base;
 	class HEC_Flag_Krona: Flag_Base //Krona
 	{
 		scope=2;
@@ -72,8 +83,6 @@ class cfgVehicles
 		};
 		weight=10;
 		itemSize[]={2,2};
-		heatIsolation=1.0;
-		visibilityModifier=0.89999998;
 		hiddenSelectionsTextures[]=
 		{
 			"Hecatombe\Smiley\Smiley_co.paa",
@@ -82,8 +91,8 @@ class cfgVehicles
 		};
 		class ClothingTypes
 		{
-			male="Hecatombe\Smiley\Smiley_g.p3d";
-			female="Hecatombe\Smiley\Smiley_g.p3d";
+			male="Hecatombe\Smiley\Smiley.p3d";
+			female="Hecatombe\Smiley\Smiley.p3d";
 		};
 		class DamageSystem
         {
