@@ -1,10 +1,10 @@
 class CfgPatches
 {
-	class Savage_Safekeep
+	class HEC_Box
 	{
 		units[]=
 		{
-			"Savage_Safekeep"
+			"HEC_Box"
 		};
 		weapons[]={};
 		requiredVersion=0.1;
@@ -30,13 +30,13 @@ class CfgPatches
 class CfgVehicles
 {
 	class Inventory_Base;
-	class Savage_Safekeep: Inventory_Base
+	class HEC_Box: Inventory_Base
 	{
 		scope=2;
 		storageCategory=1;
-		displayName="Savage Safekeep";
-		descriptionShort="Store all you Savage items and gear.";
-		model="PSD_SafeKeep\safekeep\SavageKeep.p3d";
+		displayName="Hecatombe Box";
+		descriptionShort="Guarde todos seus objetos com a caixa do servidor Hecatombe.";
+		model="Hecatombe\data\Safekeep\SavageKeep.p3d";
 		weight=40000;
 		physLayer="item_large";
 		simulation="inventoryItem";
@@ -69,7 +69,7 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"PSD_SafeKeep\data\metal_stains.paa"
+			"Hecatombe\data\Safekeep\metal_stains.paa"
 		};
 		class DamageSystem
 		{

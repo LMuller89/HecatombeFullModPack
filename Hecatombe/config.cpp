@@ -71,7 +71,7 @@ class cfgVehicles
 		scope=2;
 		displayName="Admin Hecatombe Smiley";
 		descriptionShort="Máscara Smiley Administrativa Hecatombe";
-		model="Hecatombe\Smiley\Smiley_g.p3d";
+		model="Hecatombe\data\Smiley\Smiley_g.p3d";
 		inventorySlot[]=
 		{
 			"Mask"
@@ -85,14 +85,14 @@ class cfgVehicles
 		itemSize[]={2,2};
 		hiddenSelectionsTextures[]=
 		{
-			"Hecatombe\Smiley\Smiley_co.paa",
-			"Hecatombe\Smiley\Smiley_co.paa",
-			"Hecatombe\Smiley\Smiley_co.paa"
+			"Hecatombe\data\Smiley\Smiley_co.paa",
+			"Hecatombe\data\Smiley\Smiley_co.paa",
+			"Hecatombe\data\Smiley\Smiley_co.paa"
 		};
 		class ClothingTypes
 		{
-			male="Hecatombe\Smiley\Smiley.p3d";
-			female="Hecatombe\Smiley\Smiley.p3d";
+			male="Hecatombe\data\Smiley\Smiley.p3d";
+			female="Hecatombe\data\Smiley\Smiley.p3d";
 		};
 		class DamageSystem
         {
