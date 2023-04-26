@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class mmg_retexture
+	class germany
 	{
 		units[]=
 		{
@@ -48,7 +48,7 @@ class CfgPatches
 };
 class CfgMods
 {
-	class mmg_retexture
+	class germany
 	{
 		dir="";
 		picture="";
@@ -249,7 +249,7 @@ class cfgVehicles
 		displayName="MMG Striker Helmet German FT";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\striker_visor_base_co.paa",
+			"germany\data\striker_visor_base_co.paa",
 			"germany\data\striker_helmet_ft.paa",
 			"germany\data\striker_helmet_ft.paa",
 			"germany\data\striker_helmet_ft.paa"

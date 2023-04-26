@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class mmg_retexture
+	class ukraine
 	{
 		units[]=
 		{
@@ -48,7 +48,7 @@ class CfgPatches
 };
 class CfgMods
 {
-	class mmg_retexture
+	class ukraine
 	{
 		dir="";
 		picture="";
@@ -77,9 +77,9 @@ class cfgVehicles
 		displayName="MMG JPC VEST Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\jpcvest_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\jpcvest_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\jpcvest_ukr.paa"
+			"ukraine\data\jpcvest_ukr.paa",
+			"ukraine\data\jpcvest_ukr.paa",
+			"ukraine\data\jpcvest_ukr.paa"
 		};
 	};
 	class tt_vest_Base;
@@ -89,9 +89,9 @@ class cfgVehicles
 		displayName="MMG TT Plate Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\tt_vest_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\tt_vest_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\tt_vest_ukr.paa"
+			"ukraine\data\tt_vest_ukr.paa",
+			"ukraine\data\tt_vest_ukr.paa",
+			"ukraine\data\tt_vest_ukr.paa"
 		};
 	};
 	class mmg_chestrig_Base;
@@ -101,9 +101,9 @@ class cfgVehicles
 		displayName="MMG Chestrig Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\chestrig_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\chestrig_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\chestrig_ukr.paa"
+			"ukraine\data\chestrig_ukr.paa",
+			"ukraine\data\chestrig_ukr.paa",
+			"ukraine\data\chestrig_ukr.paa"
 		};
 	};
 	class heavyvest_base;
@@ -113,9 +113,9 @@ class cfgVehicles
 		displayName="MMG MK-3 Armor Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\heavyvest_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\heavyvest_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\heavyvest_ukr.paa"
+			"ukraine\data\heavyvest_ukr.paa",
+			"ukraine\data\heavyvest_ukr.paa",
+			"ukraine\data\heavyvest_ukr.paa"
 		};
 	};
 	class mk5_vest_base;
@@ -125,9 +125,9 @@ class cfgVehicles
 		displayName="MMG MK-V Armor Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\mk5_vest_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\mk5_vest_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\mk5_vest_ukr.paa"
+			"ukraine\data\mk5_vest_ukr.paa",
+			"ukraine\data\mk5_vest_ukr.paa",
+			"ukraine\data\mk5_vest_ukr.paa"
 		};
 	};
 	class combatshirt_base;
@@ -137,9 +137,9 @@ class cfgVehicles
 		displayName="MMG CombatShirt Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\combatshirt_ukr_g.paa",
-			"mmg_retexture\data\textures\ukraine\combatshirt_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\combatshirt_ukr.paa"
+			"ukraine\data\combatshirt_ukr_g.paa",
+			"ukraine\data\combatshirt_ukr.paa",
+			"ukraine\data\combatshirt_ukr.paa"
 		};
 	};
 	class combatpants_base;
@@ -149,9 +149,9 @@ class cfgVehicles
 		displayName="MMG CombatPants Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\combatpants_ukr_g.paa",
-			"mmg_retexture\data\textures\ukraine\combatpants_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\combatpants_ukr.paa"
+			"ukraine\data\combatpants_ukr_g.paa",
+			"ukraine\data\combatpants_ukr.paa",
+			"ukraine\data\combatpants_ukr.paa"
 		};
 	};
 	class operatorshirt_base;
@@ -161,9 +161,9 @@ class cfgVehicles
 		displayName="MMG Operatorshirt Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\operatorshirt_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\operatorshirt_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\operatorshirt_ukr.paa"
+			"ukraine\data\operatorshirt_ukr.paa",
+			"ukraine\data\operatorshirt_ukr.paa",
+			"ukraine\data\operatorshirt_ukr.paa"
 		};
 	};
 	class mmg_tactical_shirt_base;
@@ -173,9 +173,9 @@ class cfgVehicles
 		displayName="MMG Tactical Shirt Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\tactical_shirt_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\tactical_shirt_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\tactical_shirt_ukr.paa"
+			"ukraine\data\tactical_shirt_ukr.paa",
+			"ukraine\data\tactical_shirt_ukr.paa",
+			"ukraine\data\tactical_shirt_ukr.paa"
 		};
 	};
 	class TacticalGloves_ColorBase;
@@ -185,9 +185,9 @@ class cfgVehicles
 		displayName="MMG Tactical Gloves Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\tacticalgloves_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\tacticalgloves_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\tacticalgloves_ukr.paa"
+			"ukraine\data\tacticalgloves_ukr.paa",
+			"ukraine\data\tacticalgloves_ukr.paa",
+			"ukraine\data\tacticalgloves_ukr.paa"
 		};
 	};
 	class JungleBoots_ColorBase;
@@ -197,9 +197,9 @@ class cfgVehicles
 		displayName="MMG Tactical Boots Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\boots_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\boots_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\boots_ukr.paa"
+			"ukraine\data\boots_ukr.paa",
+			"ukraine\data\boots_ukr.paa",
+			"ukraine\data\boots_ukr.paa"
 		};
 	};
 	class facemask_base;
@@ -209,11 +209,11 @@ class cfgVehicles
 		displayName="MMG Facemask Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\facemask_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\facemask_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\facemask_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\facemask_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\facemask_ukr.paa"
+			"ukraine\data\facemask_ukr.paa",
+			"ukraine\data\facemask_ukr.paa",
+			"ukraine\data\facemask_ukr.paa",
+			"ukraine\data\facemask_ukr.paa",
+			"ukraine\data\facemask_ukr.paa"
 		};
 	};
 	class balaclava_base;
@@ -224,9 +224,9 @@ class cfgVehicles
 		visibilityModifier=0.85000002;
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\balaclava_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\balaclava_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\balaclava_ukr.paa"
+			"ukraine\data\balaclava_ukr.paa",
+			"ukraine\data\balaclava_ukr.paa",
+			"ukraine\data\balaclava_ukr.paa"
 		};
 	};
 	class mmg_boonie_base;
@@ -237,9 +237,9 @@ class cfgVehicles
 		visibilityModifier=0.85000002;
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\boonie_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\boonie_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\boonie_ukr.paa"
+			"ukraine\data\boonie_ukr.paa",
+			"ukraine\data\boonie_ukr.paa",
+			"ukraine\data\boonie_ukr.paa"
 		};
 	};
 	class striker_helmet_base;
@@ -249,10 +249,10 @@ class cfgVehicles
 		displayName="MMG Striker Helmet Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\striker_visor_base_co.paa",
-			"mmg_retexture\data\textures\ukraine\striker_helmet_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\striker_helmet_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\striker_helmet_ukr.paa"
+			"ukraine\data\striker_visor_base_co.paa",
+			"ukraine\data\striker_helmet_ukr.paa",
+			"ukraine\data\striker_helmet_ukr.paa",
+			"ukraine\data\striker_helmet_ukr.paa"
 		};
 	};
 	class tactical_helmet_base;
@@ -262,9 +262,9 @@ class cfgVehicles
 		displayName="MMG Defcon 5 Tactical Helmet Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\tactical_helmet_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\tactical_helmet_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\tactical_helmet_ukr.paa"
+			"ukraine\data\tactical_helmet_ukr.paa",
+			"ukraine\data\tactical_helmet_ukr.paa",
+			"ukraine\data\tactical_helmet_ukr.paa"
 		};
 	};
 	class falconbelt_base;
@@ -274,10 +274,10 @@ class cfgVehicles
 		displayName="MMG Falcon Belt Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\falconbelt_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\falconbelt_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\falconbelt_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\drop_leg_ukr.paa"
+			"ukraine\data\falconbelt_ukr.paa",
+			"ukraine\data\falconbelt_ukr.paa",
+			"ukraine\data\falconbelt_ukr.paa",
+			"ukraine\data\drop_leg_ukr.paa"
 		};
 	};
 	class mag_pouch_Base;
@@ -287,7 +287,7 @@ class cfgVehicles
 		displayName="MMG Mag Pouch Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\JPCmag_pouch_ukr.paa"
+			"ukraine\data\JPCmag_pouch_ukr.paa"
 		};
 	};
 	class triple_magpouch_base;
@@ -297,9 +297,9 @@ class cfgVehicles
 		displayName="MMG Triple MagPouch Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\single_magpouch_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\single_magpouch_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\single_magpouch_ukr.paa"
+			"ukraine\data\single_magpouch_ukr.paa",
+			"ukraine\data\single_magpouch_ukr.paa",
+			"ukraine\data\single_magpouch_ukr.paa"
 		};
 	};
 	class double_magpouch_base;
@@ -309,8 +309,8 @@ class cfgVehicles
 		displayName="MMG Double MagPouch Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\single_magpouch_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\single_magpouch_ukr.paa"
+			"ukraine\data\single_magpouch_ukr.paa",
+			"ukraine\data\single_magpouch_ukr.paa"
 		};
 	};
 	class JPCMed_Pouch_base;
@@ -320,7 +320,7 @@ class cfgVehicles
 		displayName="MMG MedPouch Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\jpcmed_pouch_ukr.paa"
+			"ukraine\data\jpcmed_pouch_ukr.paa"
 		};
 	};
 	class JPCammo_pouch_base;
@@ -330,7 +330,7 @@ class cfgVehicles
 		displayName="EOD Pouch Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\ammo_pouch_ukr.paa"
+			"ukraine\data\ammo_pouch_ukr.paa"
 		};
 	};
 	class tactical_pouch_base;
@@ -340,7 +340,7 @@ class cfgVehicles
 		displayName="MMG 5.11 Tactical Pouch Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\tactical_pouch_ukr.paa"
+			"ukraine\data\tactical_pouch_ukr.paa"
 		};
 	};
 	class mk5_utility_pouch_base;
@@ -350,7 +350,7 @@ class cfgVehicles
 		displayName="MMG MK5 Utility Pouch Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\mk5_gear_ukr.paa"
+			"ukraine\data\mk5_gear_ukr.paa"
 		};
 	};
 	class mk5_grenade_pouch_base;
@@ -360,7 +360,7 @@ class cfgVehicles
 		displayName="MMG MK5 Grenade Pouch Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\mk5_gear_ukr.paa"
+			"ukraine\data\mk5_gear_ukr.paa"
 		};
 	};
 	class carrier_backpack_base;
@@ -370,9 +370,9 @@ class cfgVehicles
 		displayName="MMG Carrier Pack Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\carrier_backpack_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\carrier_backpack_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\carrier_backpack_ukr.paa"
+			"ukraine\data\carrier_backpack_ukr.paa",
+			"ukraine\data\carrier_backpack_ukr.paa",
+			"ukraine\data\carrier_backpack_ukr.paa"
 		};
 	};
 	class supplybag_base;
@@ -382,10 +382,10 @@ class cfgVehicles
 		displayName="MMG 5.11 SupplyBag Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\supplybag_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\supplybag_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\supplybag_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\carrier_backpack_ukr.paa"
+			"ukraine\data\supplybag_ukr.paa",
+			"ukraine\data\supplybag_ukr.paa",
+			"ukraine\data\supplybag_ukr.paa",
+			"ukraine\data\carrier_backpack_ukr.paa"
 		};
 	};
 	class assault_pack_base;
@@ -395,9 +395,9 @@ class cfgVehicles
 		displayName="MMG Assault Pack Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\assault_pack_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\assault_pack_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\assault_pack_ukr.paa"
+			"ukraine\data\assault_pack_ukr.paa",
+			"ukraine\data\assault_pack_ukr.paa",
+			"ukraine\data\assault_pack_ukr.paa"
 		};
 	};
 	class camelback_base;
@@ -407,9 +407,9 @@ class cfgVehicles
 		displayName="MMG Camelback Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\camelback_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\camelback_ukr.paa",
-			"mmg_retexture\data\textures\ukraine\camelback_ukr.paa"
+			"ukraine\data\camelback_ukr.paa",
+			"ukraine\data\camelback_ukr.paa",
+			"ukraine\data\camelback_ukr.paa"
 		};
 	};
 	class JPCsheath_Base;
@@ -419,7 +419,7 @@ class cfgVehicles
 		displayName="MMG Sheath Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\sheath_ukr.paa"
+			"ukraine\data\sheath_ukr.paa"
 		};
 	};
 	class PlateCarrierHolster_ColorBase;
@@ -429,7 +429,7 @@ class cfgVehicles
 		displayName="MMG Holster Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\holster_ukr.paa"
+			"ukraine\data\holster_ukr.paa"
 		};
 	};
 	class JPC_Bottle_Base;
@@ -439,7 +439,7 @@ class cfgVehicles
 		displayName="MMG Bottle Ukraine M14";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\ukraine\jpc_bottle_ukr.paa"
+			"ukraine\data\jpc_bottle_ukr.paa"
 		};
 	};
 };

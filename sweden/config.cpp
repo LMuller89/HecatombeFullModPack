@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class mmg_retexture
+	class sweden
 	{
 		units[]=
 		{
@@ -77,9 +77,9 @@ class cfgVehicles
 		displayName="MMG JPC VEST Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\jpcvest_swe.paa",
-			"mmg_retexture\data\textures\sweden\jpcvest_swe.paa",
-			"mmg_retexture\data\textures\sweden\jpcvest_swe.paa"
+			"sweden\data\jpcvest_swe.paa",
+			"sweden\data\jpcvest_swe.paa",
+			"sweden\data\jpcvest_swe.paa"
 		};
 	};
 	class tt_vest_Base;
@@ -89,9 +89,9 @@ class cfgVehicles
 		displayName="MMG Tactical-TEC Plate Carrier Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\tt_vest_swe.paa",
-			"mmg_retexture\data\textures\sweden\tt_vest_swe.paa",
-			"mmg_retexture\data\textures\sweden\tt_vest_swe.paa"
+			"sweden\data\tt_vest_swe.paa",
+			"sweden\data\tt_vest_swe.paa",
+			"sweden\data\tt_vest_swe.paa"
 		};
 	};
 	class mmg_chestrig_Base;
@@ -101,9 +101,9 @@ class cfgVehicles
 		displayName="MMG Chestrig Green";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\chestrig_swe.paa",
-			"mmg_retexture\data\textures\sweden\chestrig_swe.paa",
-			"mmg_retexture\data\textures\sweden\chestrig_swe.paa"
+			"sweden\data\chestrig_swe.paa",
+			"sweden\data\chestrig_swe.paa",
+			"sweden\data\chestrig_swe.paa"
 		};
 	};
 	class heavyvest_base;
@@ -113,9 +113,9 @@ class cfgVehicles
 		displayName="MMG MK-3 Armor Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\heavyvest_swe.paa",
-			"mmg_retexture\data\textures\sweden\heavyvest_swe.paa",
-			"mmg_retexture\data\textures\sweden\heavyvest_swe.paa"
+			"sweden\data\heavyvest_swe.paa",
+			"sweden\data\heavyvest_swe.paa",
+			"sweden\data\heavyvest_swe.paa"
 		};
 	};
 	class mk5_vest_base;
@@ -125,9 +125,9 @@ class cfgVehicles
 		displayName="MMG MK-V Armor Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\mk5_vest_swe.paa",
-			"mmg_retexture\data\textures\sweden\mk5_vest_swe.paa",
-			"mmg_retexture\data\textures\sweden\mk5_vest_swe.paa"
+			"sweden\data\mk5_vest_swe.paa",
+			"sweden\data\mk5_vest_swe.paa",
+			"sweden\data\mk5_vest_swe.paa"
 		};
 	};
 	class combatshirt_base;
@@ -137,9 +137,9 @@ class cfgVehicles
 		displayName="MMG CombatShirt Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\combatshirt_swe_g.paa",
-			"mmg_retexture\data\textures\sweden\combatshirt_swe.paa",
-			"mmg_retexture\data\textures\sweden\combatshirt_swe.paa"
+			"sweden\data\combatshirt_swe_g.paa",
+			"sweden\data\combatshirt_swe.paa",
+			"sweden\data\combatshirt_swe.paa"
 		};
 	};
 	class combatpants_base;
@@ -149,9 +149,9 @@ class cfgVehicles
 		displayName="MMG CombatPants Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\combatpants_swe_g.paa",
-			"mmg_retexture\data\textures\sweden\combatpants_swe.paa",
-			"mmg_retexture\data\textures\sweden\combatpants_swe.paa"
+			"sweden\data\combatpants_swe_g.paa",
+			"sweden\data\combatpants_swe.paa",
+			"sweden\data\combatpants_swe.paa"
 		};
 	};
 	class operatorshirt_base;
@@ -161,9 +161,9 @@ class cfgVehicles
 		displayName="MMG Operatorshirt Sweden M90 M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\operatorshirt_swe.paa",
-			"mmg_retexture\data\textures\sweden\operatorshirt_swe.paa",
-			"mmg_retexture\data\textures\sweden\operatorshirt_swe.paa"
+			"sweden\data\operatorshirt_swe.paa",
+			"sweden\data\operatorshirt_swe.paa",
+			"sweden\data\operatorshirt_swe.paa"
 		};
 	};
 	class mmg_tactical_shirt_base;
@@ -173,9 +173,9 @@ class cfgVehicles
 		displayName="MMG Tactical Shirt Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\tactical_shirt_sweden.paa",
-			"mmg_retexture\data\textures\sweden\tactical_shirt_sweden.paa",
-			"mmg_retexture\data\textures\sweden\tactical_shirt_sweden.paa"
+			"sweden\data\tactical_shirt_sweden.paa",
+			"sweden\data\tactical_shirt_sweden.paa",
+			"sweden\data\tactical_shirt_sweden.paa"
 		};
 	};
 	class TacticalGloves_ColorBase;
@@ -185,9 +185,9 @@ class cfgVehicles
 		displayName="MMG Tactical Gloves Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\tacticalgloves_swe.paa",
-			"mmg_retexture\data\textures\sweden\tacticalgloves_swe.paa",
-			"mmg_retexture\data\textures\sweden\tacticalgloves_swe.paa"
+			"sweden\data\tacticalgloves_swe.paa",
+			"sweden\data\tacticalgloves_swe.paa",
+			"sweden\data\tacticalgloves_swe.paa"
 		};
 	};
 	class JungleBoots_ColorBase;
@@ -197,9 +197,9 @@ class cfgVehicles
 		displayName="MMG Tactical Boots Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\boots_swe.paa",
-			"mmg_retexture\data\textures\sweden\boots_swe.paa",
-			"mmg_retexture\data\textures\sweden\boots_swe.paa"
+			"sweden\data\boots_swe.paa",
+			"sweden\data\boots_swe.paa",
+			"sweden\data\boots_swe.paa"
 		};
 	};
 	class facemask_base;
@@ -209,11 +209,11 @@ class cfgVehicles
 		displayName="MMG Facemask Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\facemask_swe.paa",
-			"mmg_retexture\data\textures\sweden\facemask_swe.paa",
-			"mmg_retexture\data\textures\sweden\facemask_swe.paa",
-			"mmg_retexture\data\textures\sweden\facemask_swe.paa",
-			"mmg_retexture\data\textures\sweden\facemask_swe.paa"
+			"sweden\data\facemask_swe.paa",
+			"sweden\data\facemask_swe.paa",
+			"sweden\data\facemask_swe.paa",
+			"sweden\data\facemask_swe.paa",
+			"sweden\data\facemask_swe.paa"
 		};
 	};
 	class balaclava_base;
@@ -224,9 +224,9 @@ class cfgVehicles
 		visibilityModifier=0.85000002;
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\balaclava_swe.paa",
-			"mmg_retexture\data\textures\sweden\balaclava_swe.paa",
-			"mmg_retexture\data\textures\sweden\balaclava_swe.paa"
+			"sweden\data\balaclava_swe.paa",
+			"sweden\data\balaclava_swe.paa",
+			"sweden\data\balaclava_swe.paa"
 		};
 	};
 	class mmg_boonie_base;
@@ -237,9 +237,9 @@ class cfgVehicles
 		visibilityModifier=0.85000002;
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\boonie_swe.paa",
-			"mmg_retexture\data\textures\sweden\boonie_swe.paa",
-			"mmg_retexture\data\textures\sweden\boonie_swe.paa"
+			"sweden\data\boonie_swe.paa",
+			"sweden\data\boonie_swe.paa",
+			"sweden\data\boonie_swe.paa"
 		};
 	};
 	class striker_helmet_base;
@@ -249,10 +249,10 @@ class cfgVehicles
 		displayName="MMG Striker Helmet Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\striker_visor_base_co.paa",
-			"mmg_retexture\data\textures\sweden\striker_helmet_swe.paa",
-			"mmg_retexture\data\textures\sweden\striker_helmet_swe.paa",
-			"mmg_retexture\data\textures\sweden\striker_helmet_swe.paa"
+			"sweden\data\striker_visor_base_co.paa",
+			"sweden\data\striker_helmet_swe.paa",
+			"sweden\data\striker_helmet_swe.paa",
+			"sweden\data\striker_helmet_swe.paa"
 		};
 	};
 	class tactical_helmet_base;
@@ -262,9 +262,9 @@ class cfgVehicles
 		displayName="Tactical Helmet Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\tactical_helmet_swe.paa",
-			"mmg_retexture\data\textures\sweden\tactical_helmet_swe.paa",
-			"mmg_retexture\data\textures\sweden\tactical_helmet_swe.paa"
+			"sweden\data\tactical_helmet_swe.paa",
+			"sweden\data\tactical_helmet_swe.paa",
+			"sweden\data\tactical_helmet_swe.paa"
 		};
 	};
 	class falconbelt_base;
@@ -274,10 +274,10 @@ class cfgVehicles
 		displayName="MMG Falcon Belt Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\falconbelt_swe.paa",
-			"mmg_retexture\data\textures\sweden\falconbelt_swe.paa",
-			"mmg_retexture\data\textures\sweden\falconbelt_swe.paa",
-			"mmg_retexture\data\textures\sweden\drop_leg_swe.paa"
+			"sweden\data\falconbelt_swe.paa",
+			"sweden\data\falconbelt_swe.paa",
+			"sweden\data\falconbelt_swe.paa",
+			"sweden\data\drop_leg_swe.paa"
 		};
 	};
 	class mag_pouch_Base;
@@ -287,7 +287,7 @@ class cfgVehicles
 		displayName="MMG Mag Pouch Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\JPCmag_pouch_swe.paa"
+			"sweden\data\JPCmag_pouch_swe.paa"
 		};
 	};
 	class triple_magpouch_base;
@@ -297,9 +297,9 @@ class cfgVehicles
 		displayName="MMG Triple MagPouch Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\single_magpouch_swe.paa",
-			"mmg_retexture\data\textures\sweden\single_magpouch_swe.paa",
-			"mmg_retexture\data\textures\sweden\single_magpouch_swe.paa"
+			"sweden\data\single_magpouch_swe.paa",
+			"sweden\data\single_magpouch_swe.paa",
+			"sweden\data\single_magpouch_swe.paa"
 		};
 	};
 	class double_magpouch_base;
@@ -309,8 +309,8 @@ class cfgVehicles
 		displayName="MMG Double MagPouch Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\single_magpouch_swe.paa",
-			"mmg_retexture\data\textures\sweden\single_magpouch_swe.paa"
+			"sweden\data\single_magpouch_swe.paa",
+			"sweden\data\single_magpouch_swe.paa"
 		};
 	};
 	class JPCMed_Pouch_base;
@@ -320,7 +320,7 @@ class cfgVehicles
 		displayName="MMG MedPouch Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\jpcmed_pouch_swe.paa"
+			"sweden\data\jpcmed_pouch_swe.paa"
 		};
 	};
 	class JPCammo_pouch_base;
@@ -330,7 +330,7 @@ class cfgVehicles
 		displayName="EOD Pouch Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\ammo_pouch_swe.paa"
+			"sweden\data\ammo_pouch_swe.paa"
 		};
 	};
 	class tactical_pouch_base;
@@ -340,7 +340,7 @@ class cfgVehicles
 		displayName="MMG 5.11 Tactical Pouch Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\tactical_pouch_swe.paa"
+			"sweden\data\tactical_pouch_swe.paa"
 		};
 	};
 	class mk5_utility_pouch_base;
@@ -350,7 +350,7 @@ class cfgVehicles
 		displayName="MMG MK5 Utility Pouch Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\mk5_gear_swe.paa"
+			"sweden\data\mk5_gear_swe.paa"
 		};
 	};
 	class mk5_grenade_pouch_base;
@@ -360,7 +360,7 @@ class cfgVehicles
 		displayName="MMG MK5 Grenade Pouch Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\mk5_gear_swe.paa"
+			"sweden\data\mk5_gear_swe.paa"
 		};
 	};
 	class carrier_backpack_base;
@@ -370,9 +370,9 @@ class cfgVehicles
 		displayName="MMG Carrier Pack Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\carrier_backpack_swe.paa",
-			"mmg_retexture\data\textures\sweden\carrier_backpack_swe.paa",
-			"mmg_retexture\data\textures\sweden\carrier_backpack_swe.paa"
+			"sweden\data\carrier_backpack_swe.paa",
+			"sweden\data\carrier_backpack_swe.paa",
+			"sweden\data\carrier_backpack_swe.paa"
 		};
 	};
 	class supplybag_base;
@@ -382,10 +382,10 @@ class cfgVehicles
 		displayName="MMG 5.11 SupplyBag Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\supplybag_swe.paa",
-			"mmg_retexture\data\textures\sweden\supplybag_swe.paa",
-			"mmg_retexture\data\textures\sweden\supplybag_swe.paa",
-			"mmg_retexture\data\textures\sweden\carrier_backpack_swe.paa"
+			"sweden\data\supplybag_swe.paa",
+			"sweden\data\supplybag_swe.paa",
+			"sweden\data\supplybag_swe.paa",
+			"sweden\data\carrier_backpack_swe.paa"
 		};
 	};
 	class assault_pack_base;
@@ -395,9 +395,9 @@ class cfgVehicles
 		displayName="MMG Assault Pack Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\assault_pack_swe.paa",
-			"mmg_retexture\data\textures\sweden\assault_pack_swe.paa",
-			"mmg_retexture\data\textures\sweden\assault_pack_swe.paa"
+			"sweden\data\assault_pack_swe.paa",
+			"sweden\data\assault_pack_swe.paa",
+			"sweden\data\assault_pack_swe.paa"
 		};
 	};
 	class camelback_base;
@@ -407,9 +407,9 @@ class cfgVehicles
 		displayName="MMG Camelback Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\camelback_swe.paa",
-			"mmg_retexture\data\textures\sweden\camelback_swe.paa",
-			"mmg_retexture\data\textures\sweden\camelback_swe.paa"
+			"sweden\data\camelback_swe.paa",
+			"sweden\data\camelback_swe.paa",
+			"sweden\data\camelback_swe.paa"
 		};
 	};
 	class JPCsheath_Base;
@@ -419,7 +419,7 @@ class cfgVehicles
 		displayName="MMG Sheath Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\sheath_swe.paa"
+			"sweden\data\sheath_swe.paa"
 		};
 	};
 	class PlateCarrierHolster_ColorBase;
@@ -429,7 +429,7 @@ class cfgVehicles
 		displayName="MMG Holster Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\holster_swe.paa"
+			"sweden\data\holster_swe.paa"
 		};
 	};
 	class JPC_Bottle_Base;
@@ -439,7 +439,7 @@ class cfgVehicles
 		displayName="MMG Bottle Sweden M90";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\jpc_bottle_swe.paa"
+			"sweden\data\jpc_bottle_swe.paa"
 		};
 	};
 };

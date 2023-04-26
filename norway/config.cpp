@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class mmg_retexture
+	class norway
 	{
 		units[]=
 		{
@@ -48,7 +48,7 @@ class CfgPatches
 };
 class CfgMods
 {
-	class mmg_retexture
+	class norway
 	{
 		dir="";
 		picture="";
@@ -77,9 +77,9 @@ class cfgVehicles
 		displayName="MMG JPC VEST Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\jpcvest_nor.paa",
-			"mmg_retexture\data\textures\norway\jpcvest_nor.paa",
-			"mmg_retexture\data\textures\norway\jpcvest_nor.paa"
+			"norway\data\jpcvest_nor.paa",
+			"norway\data\jpcvest_nor.paa",
+			"norway\data\jpcvest_nor.paa"
 		};
 	};
 	class tt_vest_Base;
@@ -89,9 +89,9 @@ class cfgVehicles
 		displayName="MMG TT Plate Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\tt_vest_nor.paa",
-			"mmg_retexture\data\textures\norway\tt_vest_nor.paa",
-			"mmg_retexture\data\textures\norway\tt_vest_nor.paa"
+			"norway\data\tt_vest_nor.paa",
+			"norway\data\tt_vest_nor.paa",
+			"norway\data\tt_vest_nor.paa"
 		};
 	};
 	class mmg_chestrig_Base;
@@ -101,9 +101,9 @@ class cfgVehicles
 		displayName="MMG Chestrig Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\chestrig_nor.paa",
-			"mmg_retexture\data\textures\norway\chestrig_nor.paa",
-			"mmg_retexture\data\textures\norway\chestrig_nor.paa"
+			"norway\data\chestrig_nor.paa",
+			"norway\data\chestrig_nor.paa",
+			"norway\data\chestrig_nor.paa"
 		};
 	};
 	class heavyvest_base;
@@ -113,9 +113,9 @@ class cfgVehicles
 		displayName="MMG MK-3 Armor Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\heavyvest_nor.paa",
-			"mmg_retexture\data\textures\norway\heavyvest_nor.paa",
-			"mmg_retexture\data\textures\norway\heavyvest_nor.paa"
+			"norway\data\heavyvest_nor.paa",
+			"norway\data\heavyvest_nor.paa",
+			"norway\data\heavyvest_nor.paa"
 		};
 	};
 	class mk5_vest_base;
@@ -125,9 +125,9 @@ class cfgVehicles
 		displayName="MMG MK-V Armor Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\mk5_vest_nor.paa",
-			"mmg_retexture\data\textures\norway\mk5_vest_nor.paa",
-			"mmg_retexture\data\textures\norway\mk5_vest_nor.paa"
+			"norway\data\mk5_vest_nor.paa",
+			"norway\data\mk5_vest_nor.paa",
+			"norway\data\mk5_vest_nor.paa"
 		};
 	};
 	class combatshirt_base;
@@ -137,9 +137,9 @@ class cfgVehicles
 		displayName="MMG CombatShirt Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\combatshirt_nor_g.paa",
-			"mmg_retexture\data\textures\norway\combatshirt_nor.paa",
-			"mmg_retexture\data\textures\norway\combatshirt_nor.paa"
+			"norway\data\combatshirt_nor_g.paa",
+			"norway\data\combatshirt_nor.paa",
+			"norway\data\combatshirt_nor.paa"
 		};
 	};
 	class combatpants_base;
@@ -149,9 +149,9 @@ class cfgVehicles
 		displayName="MMG CombatPants Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\combatpants_nor_g.paa",
-			"mmg_retexture\data\textures\norway\combatpants_nor.paa",
-			"mmg_retexture\data\textures\norway\combatpants_nor.paa"
+			"norway\data\combatpants_nor_g.paa",
+			"norway\data\combatpants_nor.paa",
+			"norway\data\combatpants_nor.paa"
 		};
 	};
 	class operatorshirt_base;
@@ -161,9 +161,9 @@ class cfgVehicles
 		displayName="MMG Operatorshirt Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\operatorshirt_nor.paa",
-			"mmg_retexture\data\textures\norway\operatorshirt_nor.paa",
-			"mmg_retexture\data\textures\norway\operatorshirt_nor.paa"
+			"norway\data\operatorshirt_nor.paa",
+			"norway\data\operatorshirt_nor.paa",
+			"norway\data\operatorshirt_nor.paa"
 		};
 	};
 	class mmg_tactical_shirt_base;
@@ -173,9 +173,9 @@ class cfgVehicles
 		displayName="MMG Tactical Shirt Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\tactical_shirt_nor.paa",
-			"mmg_retexture\data\textures\norway\tactical_shirt_nor.paa",
-			"mmg_retexture\data\textures\norway\tactical_shirt_nor.paa"
+			"norway\data\tactical_shirt_nor.paa",
+			"norway\data\tactical_shirt_nor.paa",
+			"norway\data\tactical_shirt_nor.paa"
 		};
 	};
 	class TacticalGloves_ColorBase;
@@ -185,9 +185,9 @@ class cfgVehicles
 		displayName="MMG Tactical Gloves Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\tacticalgloves_nor.paa",
-			"mmg_retexture\data\textures\norway\tacticalgloves_nor.paa",
-			"mmg_retexture\data\textures\norway\tacticalgloves_nor.paa"
+			"norway\data\tacticalgloves_nor.paa",
+			"norway\data\tacticalgloves_nor.paa",
+			"norway\data\tacticalgloves_nor.paa"
 		};
 	};
 	class JungleBoots_ColorBase;
@@ -197,9 +197,9 @@ class cfgVehicles
 		displayName="MMG Tactical Boots Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\boots_nor.paa",
-			"mmg_retexture\data\textures\norway\boots_nor.paa",
-			"mmg_retexture\data\textures\norway\boots_nor.paa"
+			"norway\data\boots_nor.paa",
+			"norway\data\boots_nor.paa",
+			"norway\data\boots_nor.paa"
 		};
 	};
 	class facemask_base;
@@ -209,11 +209,11 @@ class cfgVehicles
 		displayName="MMG Facemask Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\facemask_nor.paa",
-			"mmg_retexture\data\textures\norway\facemask_nor.paa",
-			"mmg_retexture\data\textures\norway\facemask_nor.paa",
-			"mmg_retexture\data\textures\norway\facemask_nor.paa",
-			"mmg_retexture\data\textures\norway\facemask_nor.paa"
+			"norway\data\facemask_nor.paa",
+			"norway\data\facemask_nor.paa",
+			"norway\data\facemask_nor.paa",
+			"norway\data\facemask_nor.paa",
+			"norway\data\facemask_nor.paa"
 		};
 	};
 	class balaclava_base;
@@ -224,9 +224,9 @@ class cfgVehicles
 		visibilityModifier=0.85000002;
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\balaclava_nor.paa",
-			"mmg_retexture\data\textures\norway\balaclava_nor.paa",
-			"mmg_retexture\data\textures\norway\balaclava_nor.paa"
+			"norway\data\balaclava_nor.paa",
+			"norway\data\balaclava_nor.paa",
+			"norway\data\balaclava_nor.paa"
 		};
 	};
 	class mmg_boonie_base;
@@ -237,9 +237,9 @@ class cfgVehicles
 		visibilityModifier=0.85000002;
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\boonie_nor.paa",
-			"mmg_retexture\data\textures\norway\boonie_nor.paa",
-			"mmg_retexture\data\textures\norway\boonie_nor.paa"
+			"norway\data\boonie_nor.paa",
+			"norway\data\boonie_nor.paa",
+			"norway\data\boonie_nor.paa"
 		};
 	};
 	class striker_helmet_base;
@@ -249,10 +249,10 @@ class cfgVehicles
 		displayName="MMG Striker Helmet Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\sweden\striker_visor_base_co.paa",
-			"mmg_retexture\data\textures\norway\striker_helmet_nor.paa",
-			"mmg_retexture\data\textures\norway\striker_helmet_nor.paa",
-			"mmg_retexture\data\textures\norway\striker_helmet_nor.paa"
+			"norway\data\striker_visor_base_co.paa",
+			"norway\data\striker_helmet_nor.paa",
+			"norway\data\striker_helmet_nor.paa",
+			"norway\data\striker_helmet_nor.paa"
 		};
 	};
 	class tactical_helmet_base;
@@ -262,9 +262,9 @@ class cfgVehicles
 		displayName="MMG Defcon 5 Tactical Helmet Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\tactical_helmet_nor.paa",
-			"mmg_retexture\data\textures\norway\tactical_helmet_nor.paa",
-			"mmg_retexture\data\textures\norway\tactical_helmet_nor.paa"
+			"norway\data\tactical_helmet_nor.paa",
+			"norway\data\tactical_helmet_nor.paa",
+			"norway\data\tactical_helmet_nor.paa"
 		};
 	};
 	class falconbelt_base;
@@ -274,10 +274,10 @@ class cfgVehicles
 		displayName="MMG Falcon Belt Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\falconbelt_nor.paa",
-			"mmg_retexture\data\textures\norway\falconbelt_nor.paa",
-			"mmg_retexture\data\textures\norway\falconbelt_nor.paa",
-			"mmg_retexture\data\textures\norway\drop_leg_nor.paa"
+			"norway\data\falconbelt_nor.paa",
+			"norway\data\falconbelt_nor.paa",
+			"norway\data\falconbelt_nor.paa",
+			"norway\data\drop_leg_nor.paa"
 		};
 	};
 	class mag_pouch_Base;
@@ -287,7 +287,7 @@ class cfgVehicles
 		displayName="MMG Mag Pouch Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\JPCmag_pouch_nor.paa"
+			"norway\data\JPCmag_pouch_nor.paa"
 		};
 	};
 	class triple_magpouch_base;
@@ -297,9 +297,9 @@ class cfgVehicles
 		displayName="MMG Triple MagPouch Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\single_magpouch_nor.paa",
-			"mmg_retexture\data\textures\norway\single_magpouch_nor.paa",
-			"mmg_retexture\data\textures\norway\single_magpouch_nor.paa"
+			"norway\data\single_magpouch_nor.paa",
+			"norway\data\single_magpouch_nor.paa",
+			"norway\data\single_magpouch_nor.paa"
 		};
 	};
 	class double_magpouch_base;
@@ -309,8 +309,8 @@ class cfgVehicles
 		displayName="MMG Double MagPouch Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\single_magpouch_nor.paa",
-			"mmg_retexture\data\textures\norway\single_magpouch_nor.paa"
+			"norway\data\single_magpouch_nor.paa",
+			"norway\data\single_magpouch_nor.paa"
 		};
 	};
 	class JPCMed_Pouch_base;
@@ -320,7 +320,7 @@ class cfgVehicles
 		displayName="MMG MedPouch Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\jpcmed_pouch_nor.paa"
+			"norway\data\jpcmed_pouch_nor.paa"
 		};
 	};
 	class JPCammo_pouch_base;
@@ -330,7 +330,7 @@ class cfgVehicles
 		displayName="EOD Pouch Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\ammo_pouch_nor.paa"
+			"norway\data\ammo_pouch_nor.paa"
 		};
 	};
 	class tactical_pouch_base;
@@ -340,7 +340,7 @@ class cfgVehicles
 		displayName="MMG 5.11 Tactical Pouch Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\tactical_pouch_nor.paa"
+			"norway\data\tactical_pouch_nor.paa"
 		};
 	};
 	class mk5_utility_pouch_base;
@@ -350,7 +350,7 @@ class cfgVehicles
 		displayName="MMG MK5 Utility Pouch Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\mk5_gear_nor.paa"
+			"norway\data\mk5_gear_nor.paa"
 		};
 	};
 	class mk5_grenade_pouch_base;
@@ -360,7 +360,7 @@ class cfgVehicles
 		displayName="MMG MK5 Grenade Pouch Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\mk5_gear_nor.paa"
+			"norway\data\mk5_gear_nor.paa"
 		};
 	};
 	class carrier_backpack_base;
@@ -370,9 +370,9 @@ class cfgVehicles
 		displayName="MMG Carrier Pack Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\carrier_backpack_nor.paa",
-			"mmg_retexture\data\textures\norway\carrier_backpack_nor.paa",
-			"mmg_retexture\data\textures\norway\carrier_backpack_nor.paa"
+			"norway\data\carrier_backpack_nor.paa",
+			"norway\data\carrier_backpack_nor.paa",
+			"norway\data\carrier_backpack_nor.paa"
 		};
 	};
 	class supplybag_base;
@@ -382,10 +382,10 @@ class cfgVehicles
 		displayName="MMG 5.11 SupplyBag Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\supplybag_nor.paa",
-			"mmg_retexture\data\textures\norway\supplybag_nor.paa",
-			"mmg_retexture\data\textures\norway\supplybag_nor.paa",
-			"mmg_retexture\data\textures\norway\carrier_backpack_nor.paa"
+			"norway\data\supplybag_nor.paa",
+			"norway\data\supplybag_nor.paa",
+			"norway\data\supplybag_nor.paa",
+			"norway\data\carrier_backpack_nor.paa"
 		};
 	};
 	class assault_pack_base;
@@ -395,9 +395,9 @@ class cfgVehicles
 		displayName="MMG Assault Pack Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\assault_pack_nor.paa",
-			"mmg_retexture\data\textures\norway\assault_pack_nor.paa",
-			"mmg_retexture\data\textures\norway\assault_pack_nor.paa"
+			"norway\data\assault_pack_nor.paa",
+			"norway\data\assault_pack_nor.paa",
+			"norway\data\assault_pack_nor.paa"
 		};
 	};
 	class camelback_base;
@@ -407,9 +407,9 @@ class cfgVehicles
 		displayName="MMG Camelback Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\camelback_nor.paa",
-			"mmg_retexture\data\textures\norway\camelback_nor.paa",
-			"mmg_retexture\data\textures\norway\camelback_nor.paa"
+			"norway\data\camelback_nor.paa",
+			"norway\data\camelback_nor.paa",
+			"norway\data\camelback_nor.paa"
 		};
 	};
 	class JPCsheath_Base;
@@ -419,7 +419,7 @@ class cfgVehicles
 		displayName="MMG Sheath Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\sheath_nor.paa"
+			"norway\data\sheath_nor.paa"
 		};
 	};
 	class PlateCarrierHolster_ColorBase;
@@ -429,7 +429,7 @@ class cfgVehicles
 		displayName="MMG Holster Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\holster_nor.paa"
+			"norway\data\holster_nor.paa"
 		};
 	};
 	class JPC_Bottle_Base;
@@ -439,7 +439,7 @@ class cfgVehicles
 		displayName="MMG Bottle Norway M98";
 		hiddenSelectionsTextures[]=
 		{
-			"mmg_retexture\data\textures\norway\jpc_bottle_nor.paa"
+			"norway\data\jpc_bottle_nor.paa"
 		};
 	};
 };
