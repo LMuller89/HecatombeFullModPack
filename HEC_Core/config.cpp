@@ -1,31 +1,26 @@
 class CfgPatches
 {
-	class HEC_MENU
+	class Hecatombe
 	{
 		units[]={};
 		weapons[]={};
 		requiredVersion=0.1;
 		requiredAddons[]=
 		{
-			"DZ_Data",
-			"DZ_Gear_Consumables",
-			"DZ_Vehicles_Wheeled",
-			"DZ_Structures_Residential",
-			"DZ_Sounds_Effects",
-			"DZ_Sounds_Weapons"
+			"DZ_Data"
 		};
 	};
 };	
 class CfgMods
 {
-	class HEC_MENU
+	class Hecatombe
 	{
-		dir="HEC_MENU";
+		dir="Hecatombe";
 		picture="";
 		action="";
 		hideName=0;
 		hidePicture=0;
-		name="HEC_MENU";
+		name="Hecatombe";
 		credits="MÜLLER, WINCODERS";
 		author="MÜLLER, WINCODERS";
 		authorID="76561198084922059, 76561198379616734";
@@ -45,7 +40,7 @@ class CfgMods
 				value="";
 				files[]=
 				{
-					"HEC_Menu/scripts/3_Game"
+					"HEC_Core/scripts/3_Game"
 				};
 			};
 			class worldScriptModule
@@ -53,7 +48,7 @@ class CfgMods
 				value="";
 				files[]=
 				{
-					"HEC_Menu/scripts/4_World"
+					"HEC_Core/scripts/4_World"
 				};
 			};
 			class missionScriptModule
@@ -61,23 +56,9 @@ class CfgMods
 				value="";
 				files[]=
 				{
-					"HEC_Menu/scripts/5_Mission"
+					"HEC_Core/scripts/5_Mission"
 				};
 			};
 		};
-	};
-};
-class CfgSoundSets {
-	class FMusic_Menu_SoundSet {
-		soundShaders[] = {"FMusic_Menu_SoundShader"};
-		volumeFactor = 1;
-		frequencyFactor = 1;
-		spatial = 0;
-	};
-};
-class CfgSoundShaders {
-	class FMusic_Menu_SoundShader {
-		samples[] = {{"\HEC_Menu\mainmenu", 1}};
-		volume = 0.5;
 	};
 };

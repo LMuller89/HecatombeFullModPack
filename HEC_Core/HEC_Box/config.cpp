@@ -36,7 +36,7 @@ class CfgVehicles
 		storageCategory=1;
 		displayName="Hecatombe Box";
 		descriptionShort="Guarde todos seus objetos com a caixa do servidor Hecatombe.";
-		model="Hecatombe\data\HEC_Box\SavageKeep.p3d";
+		model="HEC_Core\HEC_Box\HEC_Box.p3d";
 		weight=40000;
 		physLayer="item_large";
 		simulation="inventoryItem";
@@ -69,7 +69,7 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"Hecatombe\data\HEC_Box\metal_stains.paa"
+			"HEC_Core\data\HEC_Box\metal_stains.paa"
 		};
 		class DamageSystem
 		{
