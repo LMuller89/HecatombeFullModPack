@@ -1,10 +1,11 @@
-"Language,""english"",""russian"",""portuguese"","
-"c_welcome,""Welcome,"",""Добро пожаловать,"",""Bem-vindo,"","
-"c_play,""PLAY"",""ИГРАТЬ"",""JOGAR"","
-"c_distance,""Distance traveled by foot"",""Пройдено пешком"",""Dist�ncia percorrida a p�"","
-"c_maxdist,""Best long range hit of a survivor"",""Макс. дист. выстр."",""Melhor golpe de longo alcance em um sobrevivente"","
-"c_modded,""Hecatombe Servers"",""??????? Hecatombe "",""Hecatombe Servidores "","
-"c_home,""HOME"",""ГЛАВНАЯ"",""IN�CIO"","
-"c_character,""CHARACTER"",""ПЕРСОНАЖ"",""PERSONAGEM"","
-"c_settings,""SETTINGS"",""НАСТРОЙКИ"",""CONFIGURA��ES"","
-"c_exit,""EXIT"",""ВЫЙТИ"",""SAIR"","
+"Language","english","russian",
+"c_welcome","Welcome,","Добро пожаловать,",
+"c_play","PLAY","ИГРАТЬ",
+"c_distance","Distance traveled by foot","Пройдено пешком",
+"c_maxdist","Best long range hit of a survivor","Макс. дист. выстр.",
+"c_modded","Menu created by includelow","Меню создал includelow",
+"c_home","HOME","ГЛАВНАЯ",
+"c_character","CHARACTER","ПЕРСОНАЖ",
+"c_settings","SETTINGS","НАСТРОЙКИ",
+"c_exit","EXIT","ВЫЙТИ",
+

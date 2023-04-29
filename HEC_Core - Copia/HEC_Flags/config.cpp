@@ -23,7 +23,7 @@ class cfgVehicles
 		descriptionShort="Bandeira do Servidor Hecatombe";
 		hiddenSelectionsTextures[]=
 		{
-			"HEC_Core\data\HEC_Flags\HEC_Flag_Hecatombe_co.paa"
+			"HEC_Core\data\HEC_Flags\Flag_Hecatombe_co.paa"
 		};
 	};
 	class HEC_Flag_Krona: Flag_Base //Krona
@@ -33,7 +33,7 @@ class cfgVehicles
 		descriptionShort="Bandeira do Cartel do Castelo de Krona";
 		hiddenSelectionsTextures[]=
 		{
-			"HEC_Core\data\HEC_Flags\HEC_Flag_Krona_co.paa"
+			"HEC_Core\data\HEC_Flags\Flag_Krona_co.paa"
 		};
 	};
 	class HEC_Flag_Devils: Flag_Base //Devils
@@ -43,7 +43,7 @@ class cfgVehicles
 		descriptionShort="Bandeira do Cartel do Castelo de Devils";
 		hiddenSelectionsTextures[]=
 		{
-			"HEC_Core\data\HEC_Flags\HEC_Flag_Devils_co.paa"
+			"HEC_Core\data\HEC_Flags\Flag_Devils_co.paa"
 		};
 	};
 	class HEC_Flag_Cla_BLT: Flag_Base //Clã BLT
@@ -53,7 +53,7 @@ class cfgVehicles
 		descriptionShort="Bandeira do Clã Bullet's";
 		hiddenSelectionsTextures[]=
 		{
-			"HEC_Core\data\HEC_Flags\HEC_Flag_Cla_BLT_co.paa"
+			"HEC_Core\data\HEC_Flags\Flag_Cla_BLT_co.paa"
 		};
 	};
 };

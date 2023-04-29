@@ -19,7 +19,7 @@ FrameWidgetClass rootFrame {
    vexactpos 0
    hexactsize 1
    vexactsize 0
-   imageTexture "{722B730F3EF55F76}ModdedMainMenu_v3/gui/MainMenu/Images/background.edds"
+   imageTexture "{722B730F3EF55F76}HEC_Menu/gui/MainMenu/Images/background.edds"
    stretch 1
   }
   FrameWidgetClass top_root {
@@ -499,7 +499,7 @@ FrameWidgetClass rootFrame {
    vexactpos 1
    hexactsize 1
    vexactsize 1
-   imageTexture "{53100512A8AC2A42}ModdedMainMenu_v3/gui/MainMenu/Images/logo.edds"
+   imageTexture "{53100512A8AC2A42}HEC_Menu/gui/MainMenu/Images/logo.edds"
    mode blend
    "src alpha" 1
    "no wrap" 1

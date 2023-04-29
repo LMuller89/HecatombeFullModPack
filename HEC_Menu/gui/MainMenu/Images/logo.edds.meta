@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{0321A3B43ED4A3B1}HecatombeFullModPack/HEC_Menu/gui/MainMenu/Images/logo.edds"
+ Author "desktop-fp55ppj"
+ ChangeDate 77409948
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "logo.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
