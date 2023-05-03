@@ -56,11 +56,11 @@ class cfgVehicles
 			"HEC_Core\data\HEC_Flags\HEC_Flag_Cla_BLT_co.paa"
 		};
 	};
-	class HEC_Flag_Cla_REV: Flag_Base //Clã Revoluctionary
+	class HEC_Flag_Cla_REV: Flag_Base //Clã Revolutionary
 	{
 		scope=2;
 		displayName="Bandeira do Clã [REV]";
-		descriptionShort="Bandeira do Clã Revoluctionary";
+		descriptionShort="Bandeira do Clã Revolutionary";
 		hiddenSelectionsTextures[]=
 		{
 			"HEC_Core\data\HEC_Flags\HEC_Flag_Cla_REV_co.paa"
