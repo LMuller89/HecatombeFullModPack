@@ -88,16 +88,4 @@ class cfgVehicles
 			};
 		};
 	};
-	class HEC_Smiley_Admin: HEC_Smiley_ColorBase
-	{
-		scope=2;
-		color="Admin";
-		visibilityModifier=0.85000002;
-		hiddenSelectionsTextures[]=
-		{
-			"HEC_Core\data\HEC_Smiley\HEC_Smiley_co.paa",
-			"HEC_Core\data\HEC_Smiley\HEC_Smiley_co.paa",
-			"HEC_Core\data\HEC_Smiley\HEC_Smiley_co.paa"
-		};
-	};
 };
