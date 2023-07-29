@@ -16,6 +16,6 @@ class CfgVehicles
 	class HEC_Ladder: HouseNoDestruct
 	{
 		scope=1;
-		model="\HEC_Ladder\HEC_Ladder.p3d";
+		model="HEC_Core\HEC_Ladder\HEC_Ladder.p3d";
 	};
 };
