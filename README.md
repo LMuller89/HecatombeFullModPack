@@ -41,50 +41,70 @@ Nós dos Servidores Hecatombe agrecemos enormemente aos criadores de conteúdo p
 
 Lista de agradecimentos:
 
-- Auto Run: 
-- Ear Plug:
-- Party:
-- Kill Feed:
-- Compass:
-- No-grass:
-- RemoveFog:
-- Inventory in car:
-- KOD Weapons:
-- Invisible Clothing:
-- Unknown Ghillies:
-- Basic Territóries:
-- CS Bags:
-- CS Objects:
-- Gold Nuggets:
-- No-Stun:
-- No-Temperature:
-- NulledWindReduction:
-- Anti-KnifeGlitch:
-- Pristine Repair:
-- PVEZ:
-- PVEZAirdropZones:
-- SalineBag:
-- Chat Global:
-- Moviment Fix:
-- No-Sickness:
-- Basic Map:
-- CDS Bulletstack:
-- CrSk Veículos:
-- Dread Jordan Shoes:
-- FTM228_GhillieFix:
-- FTM228_GhillieHoodFix:
-- FTM228_PlateCarrierFix:
-- FTM228_SmershFix:
-- MMG Retexturas:
-- Builder Itens:
-- MRTsMREs:
-- No-BrokenLegs:
-- OverlayRemover:
-- PristineRepair:
-- Tarkov_Medical:
-- ZenAntiCombatLogout-main:
-- ZenNotes-main:
-- ZenTireRack:
+-     Auto Run: 
+-     Ear Plug:
+-     Party:
+-     Kill Feed:
+-     Compass:
+-     No-grass:
+-     RemoveFog:
+-     Inventory in car:
+- ()  KOD Weapons:
+- ()  Invisible Clothing:
+- ()  Unknown Ghillies:
+- ()  Basic Territóries:
+- ()  CS Bags:
+- ()  CS Objects:
+- ()  Gold Nuggets:
+-     No-Stun:
+-     No-Temperature:
+-     NulledWindReduction:
+-     Anti-KnifeGlitch:
+-     Pristine Repair:
+-     PVEZ:
+-     PVEZAirdropZones:
+- ()  SalineBag:
+-     Chat Global:
+-     Moviment Fix:
+-     No-Sickness:
+-     Basic Map:
+-     CDS Bulletstack:
+- ()  CrSk Veículos:
+- ()  Dread Jordan Shoes:
+-     FTM228_GhillieFix:
+-     FTM228_GhillieHoodFix:
+-     FTM228_PlateCarrierFix:
+-     FTM228_SmershFix:
+- ()  MMG Retexturas:
+-     Builder Itens:
+- ()  MRTsMREs:
+-     No-BrokenLegs:
+-     OverlayRemover:
+-     PristineRepair:
+- ()  Tarkov_Medical:
+-     ZenAntiCombatLogout-main:
+- (?) ZenNotes-main:
+- ()  ZenTireRack:
+
+() Indicador de lista de itens para com o mod.
+
+MODIFICAÇÕES A SEREM INCLUÍDAS OU OBSERVADAS:
+- Rever os veículos
+- Movimentação de inclinar enquanto corre. Não vi o mod.
+- Respiração quando está mirando não cansa, deve ter relação com autorun.
+- LoadScreen, dicas, música, scene, marca d'água. Olhar o MyMod (expansion)
+- Parte do discord do killfeed
+- K/D no discord
+- hitmarker
+- VPP tem no github, pode usar? Teria como traduzir, até alterar as informações de killfeed para funcionar melhor.
+- Incluir mod de armas próprias para o servidor, ver se dá para pegar a configuração melhor de outros mods.
+- Tem que verificar a textura das roupas administrativas, tornar própria Hecatombe, verificar o mk3. Textura para canteen, ngv, flashligth, óculos, fazer um path também, ver sobre braçadeiras. Trocar a textura da morphine e epinephrine menos brancas, chama atenção.
+- Padronizar a roupa admin para depois replicar para clãs.
+- Conferir se as invesibles estão funcionando. Se não for usar os machados e afins do retirar.
+- Editar as ghillies para ficar com slot do CS_WeaponsBag, e ficar na braçadeira. Ver quais ghillies sãos as top que parecem com as árvores.
+
+
+
 
 No que se refere ao KOD Weapons, um especial agradecimento ao KAMA criador do mod o qual fora adquirido para os servidores HECATOMBE, com a permição de postagem mediante pagamento!
 =========================CRÉDITOS AO CRIADOR=========================
