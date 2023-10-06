@@ -46,7 +46,7 @@ Lista de agradecimentos:
 -     Party:
 -     Kill Feed:
 -     Compass:
--     No-grass:
+-     No-grass: https://steamcommunity.com/sharedfiles/filedetails/?id=2808529082
 -     RemoveFog:
 -     Inventory in car:
 - ()  KOD Weapons:
@@ -79,7 +79,7 @@ Lista de agradecimentos:
 -     Builder Itens: https://steamcommunity.com/sharedfiles/filedetails/?id=1565871491
 - ()  MRTsMREs:
 -     No-BrokenLegs:
--     OverlayRemover:
+-     Overlay Removal: https://steamcommunity.com/sharedfiles/filedetails/?id=2617798091
 -     PristineRepair:
 - ()  Tarkov_Medical:
 -     ZenAntiCombatLogout-main: https://steamcommunity.com/sharedfiles/filedetails/?id=2968646594
@@ -106,6 +106,7 @@ MODIFICAÇÕES A SEREM INCLUÍDAS OU OBSERVADAS:
 - Retiar o windstrider?
 - CDS_Bulletstack = Revisar se vai ter todas as balas, retirar as que não são úteis
 - Verificar no BioZ o que está faltando no servidor, Olhar no Low também depois.
+
 
 
 No que se refere ao KOD Weapons, um especial agradecimento ao KAMA criador do mod o qual fora adquirido para os servidores HECATOMBE, com a permição de postagem mediante pagamento!
