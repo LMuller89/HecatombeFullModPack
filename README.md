@@ -50,9 +50,9 @@ Lista de agradecimentos:
 -     RemoveFog:
 -     Inventory in car:
 - ()  KOD Weapons:
-- ()  Invisible Clothing:
-- ()  Unknown Ghillies:
-- ()  Basic Territóries:
+- ()  Invisible Clothing: https://steamcommunity.com/sharedfiles/filedetails/?id=1780114256
+- ()  Unknown Ghillie Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2074403068
+- ()  Basic Territóries: https://steamcommunity.com/sharedfiles/filedetails/?id=2999534116
 - ()  CS Bags:
 - ()  CS Objects:
 - ()  Gold Nuggets:
@@ -61,14 +61,14 @@ Lista de agradecimentos:
 -     NulledWindReduction:
 -     Anti-KnifeGlitch:
 -     Pristine Repair:
--     PVEZ:
--     PVEZAirdropZones:
+-     PVEZ: https://steamcommunity.com/sharedfiles/filedetails/?id=1878060278
+-     PVEZAirdropZones: https://steamcommunity.com/sharedfiles/filedetails/?id=2109062212
 - ()  SalineBag:
 -     Chat Global:
 -     Moviment Fix:
 -     No-Sickness:
--     Basic Map:
--     CDS Bulletstack:
+-     Basic Map: https://steamcommunity.com/sharedfiles/filedetails/?id=2270215132
+-     CDS Bulletstack: https://steamcommunity.com/sharedfiles/filedetails/?id=2951379570
 - ()  CrSk Veículos:
 - ()  Dread Jordan Shoes:
 -     FTM228_GhillieFix:
@@ -76,15 +76,16 @@ Lista de agradecimentos:
 -     FTM228_PlateCarrierFix:
 -     FTM228_SmershFix:
 - ()  MMG Retexturas:
--     Builder Itens:
+-     Builder Itens: https://steamcommunity.com/sharedfiles/filedetails/?id=1565871491
 - ()  MRTsMREs:
 -     No-BrokenLegs:
 -     OverlayRemover:
 -     PristineRepair:
 - ()  Tarkov_Medical:
--     ZenAntiCombatLogout-main:
+-     ZenAntiCombatLogout-main: https://steamcommunity.com/sharedfiles/filedetails/?id=2968646594
 - (?) ZenNotes-main:
 - ()  ZenTireRack:
+-     Tradução do VPP: Criador https://steamcommunity.com/id/provincial_artem/, postado por https://steamcommunity.com/sharedfiles/filedetails/?id=3023369552
 
 () Indicador de lista de itens para com o mod.
 
@@ -92,17 +93,18 @@ MODIFICAÇÕES A SEREM INCLUÍDAS OU OBSERVADAS:
 - Rever os veículos
 - Movimentação de inclinar enquanto corre. Não vi o mod.
 - Respiração quando está mirando não cansa, deve ter relação com autorun.
-- LoadScreen, dicas, música, scene, marca d'água. Olhar o MyMod (expansion)
+- LoadScreen, dicas, música, scene, marca d'água. Olhar o MyMod (expansion-github) https://steamcommunity.com/sharedfiles/filedetails/?id=2960795892
 - Parte do discord do killfeed
 - K/D no discord
-- hitmarker
+- hitmarker?? https://steamcommunity.com/sharedfiles/filedetails/?id=2903723881
 - VPP tem no github, pode usar? Teria como traduzir, até alterar as informações de killfeed para funcionar melhor.
 - Incluir mod de armas próprias para o servidor, ver se dá para pegar a configuração melhor de outros mods.
 - Tem que verificar a textura das roupas administrativas, tornar própria Hecatombe, verificar o mk3. Textura para canteen, ngv, flashligth, óculos, fazer um path também, ver sobre braçadeiras. Trocar a textura da morphine e epinephrine menos brancas, chama atenção.
 - Padronizar a roupa admin para depois replicar para clãs.
 - Conferir se as invesibles estão funcionando. Se não for usar os machados e afins do retirar.
 - Editar as ghillies para ficar com slot do CS_WeaponsBag, e ficar na braçadeira. Ver quais ghillies sãos as top que parecem com as árvores.
-
+- ver como é o plugin do PVEZ no airdrop e se dá para fazer com o convoy e train já funciona do helicraft
+- Retiar o windstrider?
 
 
 

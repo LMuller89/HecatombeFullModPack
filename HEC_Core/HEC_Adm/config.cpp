@@ -53,7 +53,7 @@ class CfgVehicles
 	{
 		scope = 2;
 		displayName="Capacete do Hecatombe Special Force";
-		descriptionShort="Capacete do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Capacete do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[]=
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_Visor.paa",
@@ -68,7 +68,7 @@ class CfgVehicles
 	{
 		scope=2;
 		displayName="Balaclava do Hecatombe Special Force";
-		descriptionShort="Balaclava do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Balaclava do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		visibilityModifier=0.85000002;
 		hiddenSelectionsTextures[] = 
 		{
@@ -83,7 +83,7 @@ class CfgVehicles
 	{
 		scope=2;
 		displayName="Camiseta Tatica Hecatombe Special Force";
-		descriptionShort="Camiseta Tatica do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Camiseta Tatica do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[] = 
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_Camiseta.paa",
@@ -97,7 +97,7 @@ class CfgVehicles
 	{
 		scope = 2;
 		displayName = "Colete MK3 do Hecatombe Special Force";
-		descriptionShort="Colete MK3 do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Colete MK3 do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[] = 
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_ColeteMK3.paa",
@@ -111,7 +111,7 @@ class CfgVehicles
 	{
 		scope = 2;
 		displayName = "Colete MK5 do Hecatombe Special Force";
-		descriptionShort="Colete MK5 do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Colete MK5 do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[] = 
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_ColeteMK5.paa",
@@ -125,7 +125,7 @@ class CfgVehicles
 	{
 		scope = 2;
 		displayName = "Bolsa Munições do Hecatombe Special Force";
-		descriptionShort="Bolsa de munições de acesso rápido do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Bolsa de munições de acesso rápido do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[]=
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_AmmoPouch.paa"
@@ -137,7 +137,7 @@ class CfgVehicles
 	{
 		scope = 2;
 		displayName = "Bolsa de carregadores do Hecatombe Special Force";
-		descriptionShort="Bolsa de carregadores de acesso rápido do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Bolsa de carregadores de acesso rápido do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[]=
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_MagPouch.paa"
@@ -149,7 +149,7 @@ class CfgVehicles
 	{
 		scope = 2;
 		displayName = "Bolsa dupla de carregadores do Hecatombe Special Force";
-		descriptionShort="Bolsa dupla de carregadores de acesso rápido do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Bolsa dupla de carregadores de acesso rápido do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[]=
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_SingleMagPouch.paa",
@@ -162,7 +162,7 @@ class CfgVehicles
 	{
 		scope = 2;
 		displayName = "Bolsa tripla de carregadores do Hecatombe Special Force";
-		descriptionShort="Bolsa tripla de carregadores de acesso rápido do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Bolsa tripla de carregadores de acesso rápido do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[]=
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_SingleMagPouch.paa",
@@ -176,7 +176,7 @@ class CfgVehicles
 	{
 		scope = 2;
 		displayName = "Bolsa medica do Hecatombe Special Force";
-		descriptionShort="Bolsa medica do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Bolsa medica do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[]=
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_MedicalPouch.paa"
@@ -188,7 +188,7 @@ class CfgVehicles
 	{
 		scope = 2;
 		displayName = "Bolsa tatica do Hecatombe Special Force";
-		descriptionShort="Bolsa tatica do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Bolsa tatica do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[]=
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_TacticalPouch.paa"
@@ -200,7 +200,7 @@ class CfgVehicles
 	{
 		scope = 2;
 		displayName = "Bolsa de utilitarios MK5 do Hecatombe Special Force";
-		descriptionShort="Bolsa de utilitarios MK5 do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Bolsa de utilitarios MK5 do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[]=
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_MK5Pouch.paa"
@@ -212,7 +212,7 @@ class CfgVehicles
 	{
 		scope = 2;
 		displayName = "Bolsa de granadas MK5 do Hecatombe Special Force";
-		descriptionShort="Bolsa de granadas MK5 do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Bolsa de granadas MK5 do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[]=
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_MK5Pouch.paa"
@@ -224,7 +224,7 @@ class CfgVehicles
 	{
 		scope=2;
 		displayName = "Coldre do Hecatombe Special Force";
-		descriptionShort="Coldre do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Coldre do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[]=
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_Coldre.paa"
@@ -236,7 +236,7 @@ class CfgVehicles
 	{
 		scope=2;
 		displayName = "Bainha do Hecatombe Special Force";
-		descriptionShort="Bainha do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Bainha do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[]=
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_Bainha.paa"
@@ -248,7 +248,7 @@ class CfgVehicles
 	{
 		scope=2;
 		displayName="Calça do Hecatombe Special Force";
-		descriptionShort="Calça do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Calça do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[] = 
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_Calca_g.paa",
@@ -262,7 +262,7 @@ class CfgVehicles
 	{
 		scope = 2;
 		displayName = "Cinto do Hecatombe Special Force";
-		descriptionShort="Cinto do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Cinto do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[] = 
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_Cinto.paa",
@@ -277,7 +277,7 @@ class CfgVehicles
 	{
 		scope=2;
 		displayName = "Mochila do Hecatombe Special Force";
-		descriptionShort="Mochila do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Mochila do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[] = 
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_Mochila.paa",
@@ -291,7 +291,7 @@ class CfgVehicles
 	{
 		scope=2;
 		displayName = "Luvas do Hecatombe Special Force";
-		descriptionShort="Luvas do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Luvas do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[] = 
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_Luvas.paa",
@@ -305,7 +305,7 @@ class CfgVehicles
 	{
 		scope=2;
 		displayName = "Botas do Hecatombe Special Force";
-		descriptionShort="Botas do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE";
+		descriptionShort="Botas do Hecatombe Special Force - ADMINISTRAÇÃO DO SERVIDOR HECATOMBE | Manter posse desse item é punível com Banimento!!!";
 		hiddenSelectionsTextures[] = 
 		{
 			"HEC_Core\data\HEC_Adm\HEC_Adm_Botas.paa",
