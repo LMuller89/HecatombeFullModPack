@@ -101,11 +101,11 @@ MODIFICAÇÕES A SEREM INCLUÍDAS OU OBSERVADAS:
 - Incluir mod de armas próprias para o servidor, ver se dá para pegar a configuração melhor de outros mods.
 - Tem que verificar a textura das roupas administrativas, tornar própria Hecatombe, verificar o mk3. Textura para canteen, ngv, flashligth, óculos, fazer um path também, ver sobre braçadeiras. Trocar a textura da morphine e epinephrine menos brancas, chama atenção.
 - Padronizar a roupa admin para depois replicar para clãs.
-- Conferir se as invesibles estão funcionando. Se não for usar os machados e afins do retirar.
 - Editar as ghillies para ficar com slot do CS_WeaponsBag, e ficar na braçadeira. Ver quais ghillies sãos as top que parecem com as árvores.
 - ver como é o plugin do PVEZ no airdrop e se dá para fazer com o convoy e train já funciona do helicraft
 - Retiar o windstrider?
-
+- CDS_Bulletstack = Revisar se vai ter todas as balas, retirar as que não são úteis
+- Verificar no BioZ o que está faltando no servidor, Olhar no Low também depois.
 
 
 No que se refere ao KOD Weapons, um especial agradecimento ao KAMA criador do mod o qual fora adquirido para os servidores HECATOMBE, com a permição de postagem mediante pagamento!
