@@ -106,7 +106,7 @@ MODIFICAÇÕES A SEREM INCLUÍDAS OU OBSERVADAS:
 - Retiar o windstrider?
 - CDS_Bulletstack = Revisar se vai ter todas as balas, retirar as que não são úteis
 - Verificar no BioZ o que está faltando no servidor, Olhar no Low também depois.
-
+- KOD tem todas as fontes brancas, somente as traders, tem uma fonte maior 
 
 
 No que se refere ao KOD Weapons, um especial agradecimento ao KAMA criador do mod o qual fora adquirido para os servidores HECATOMBE, com a permição de postagem mediante pagamento!
