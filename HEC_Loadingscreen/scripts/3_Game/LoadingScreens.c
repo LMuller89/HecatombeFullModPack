@@ -1,7 +1,7 @@
 const string LOADING_SCREENS_PATH = "HEC_Loadingscreen/gui/images/loading_screens/Loading";
 
 const int START_INDEX = 1;
-const int LOADING_SCREENS_COUNT = 6;
+const int LOADING_SCREENS_COUNT = 1;
 const bool REMOVE_MODDED_WARNING = true;
 const bool REMOVE_DAYZ_LOGO = true;
 modded class LoadingScreen 
